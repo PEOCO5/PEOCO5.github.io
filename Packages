@@ -1,13 +1,14 @@
 Package: ru.domo.cocoatop64
 Version: 2.0.2-1
+Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: Pearce <pearce.oconnor1@gmail.com>
-Filename: /Cocoatop.deb
+Filename: ./debs/Cocoatop.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
 SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
-Section: Tweaks
 Description: Task Manager for ios
 Author: Pearce <pearce.oconnor1@gmail.com>
 Name: cocoatop64
+Depiction: https://PEOCO5.github.io/repo/depictions/?p=ru.domo.cocoatop64
