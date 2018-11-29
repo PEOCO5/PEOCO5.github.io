@@ -1,11 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>ru.domo.cocoatop64</id>
+	<name>cocoatop64</name>
+	<version>2.0.2-1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
