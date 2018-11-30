@@ -3,7 +3,7 @@ Version: 2.0.2-1
 Section: Tweaks
 Architecture: iphoneos-arm
 Maintainer: Pearce <pearce.oconnor1@gmail.com>
-Filename: /debs/Cocoatop.deb
+Filename: ./debs/Cocoatop.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
