@@ -32,3 +32,20 @@ Description: Brighten up your notifications
 Author: Maxwell Dausch <max.dausch@gmail.com>
 Name: Palette1
 Depiction: https://PEOCO5.github.io/depictions/?p=ch.madus.palette
+
+Package: org.thebigboss.swipeformore
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends:
+Conflicts: org.thebigboss.swipeformor
+Filename: ./debs/Swipeformore.deb
+Size: 40585
+MD5sum: a59263c6ed09b510f341a0dedea94c50
+SHA1: 14c279fe3f8c84d0c0e0edaca9d50f33669a754b
+SHA256: 199a3549e10e41706ee885313285382b857a36b3271e1021def2fc8c9b4e3a91
+Section: Tweaks
+Description: Manage packages via swipe.
+Author: BigBoss <bigboss@thebigboss.org>
+Name: Swipeformore
+Depiction: https://PEOCO5.github.io/depictions/?p=org.thebigboss.swipeformore
