@@ -23,7 +23,7 @@ Maintainer: Maxwell Dausch <max.dausch@gmail.com>
 Depends:
 Conflicts: ch.mdaus.palete
 Filename: ./debs/Palette.deb
-Size: 754123
+Size: 405894
 MD5sum: 460e1276a46493b26b2c7efa92b3528a
 SHA1: b617f7612afee3897301547134a6c8b06eac3229
 SHA256: dead9efbf977964428f6f8d8d7a7208e0f952157d03c300e21db932046c0b0b7
