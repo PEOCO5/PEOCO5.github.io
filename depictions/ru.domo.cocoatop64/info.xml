@@ -4,7 +4,7 @@
 	<version>2.0.2-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>11.4</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Process Viewer for iOS GUI (64-bit)</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
