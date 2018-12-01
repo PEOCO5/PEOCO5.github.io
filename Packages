@@ -16,3 +16,19 @@ Installed-Size: 742
 Name: cocoatop64
 Depiction: https://PEOCO5.github.io/depictions/?p=ru.domo.cocoatop64
 
+Package: ch.mdaus.palette
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: Maxwell Dausch <max.dausch@gmail.com>
+Depends:
+Conflicts: ch.mdaus.palete
+Filename: ./debs/Palette.deb
+Size: 405894
+MD5sum: d052e232ad2af24a29adb00be2db24f2
+SHA1: 24dfe959a29f84452eb4fa616fe339fe72be2c00
+SHA256: a0affd786ea8c85558d65498fb865668bfdeaae82c8230d74d2000107d42569d
+Section: Tweaks
+Description: Brighten up your notifications!
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Name: Palette
+Depiction: https://PEOCO5.github.io/depictions/?p=ch.madus.palette
